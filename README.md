@@ -20,10 +20,6 @@ Builder of AI automations, chatbots, and web experiences.
 ### ✨ Vibe Coded Sites
 - [repo-name](https://github.com/yourusername/repo-name) — short description · [Live Preview](https://yourname.github.io/repo-name)
 - [repo-name](https://github.com/yourusername/repo-name) — short description · [Live Preview](https://yourname.github.io/repo-name)
-- [repo-name](https://github.com/yourusername/repo-name) — short description · [Live Preview](https://yourname.github.io/repo-name)
-- [repo-name](https://github.com/yourusername/repo-name) — short description · [Live Preview](https://yourname.github.io/repo-name)
-- [repo-name](https://github.com/yourusername/repo-name) — short description · [Live Preview](https://yourname.github.io/repo-name)
-- [repo-name](https://github.com/yourusername/repo-name) — short description · [Live Preview](https://yourname.github.io/repo-name)
 
 ### 🌐 My Websites(using html,tailwindcss,js)
 - [repo-name](https://github.com/yourusername/repo-name) — short description · [Live Preview](https://yourname.github.io/repo-name)
